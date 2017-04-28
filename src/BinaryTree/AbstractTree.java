@@ -1,4 +1,4 @@
-package sample;
+package BinaryTree;
 
 /**
  * Created by Flammino on 4/26/2017.

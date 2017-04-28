@@ -1,4 +1,4 @@
-package sample;
+package BinaryTree;
 
 
 public interface Tree<E extends Comparable<E>> extends Iterable<E> {

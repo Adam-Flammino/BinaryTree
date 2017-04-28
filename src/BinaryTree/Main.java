@@ -1,4 +1,4 @@
-package sample;
+package BinaryTree;
 
 import javafx.application.Application;
 import javafx.event.ActionEvent;

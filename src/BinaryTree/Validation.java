@@ -1,4 +1,4 @@
-package sample;
+package BinaryTree;
 /**
  * Created by Flammino on 4/25/2017.
  * Checks for empty ArrayLists

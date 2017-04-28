@@ -1,4 +1,4 @@
-package sample;
+package BinaryTree;
 
 public class Controller {
 }
